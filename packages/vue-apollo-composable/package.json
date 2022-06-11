@@ -1,10 +1,10 @@
 {
   "name": "@vue/apollo-composable",
-  "version": "4.0.0-alpha.17",
+  "version": "4.0.0-alpha.18",
   "description": "Apollo GraphQL for Vue Composition API",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuejs/vue-apollo.git",
+    "url": "https://github.com/nevermin9/apollo.git",
     "directory": "packages/vue-apollo-composable"
   },
   "keywords": [
@@ -16,9 +16,8 @@
   "author": "Guillaume Chau <guillaume.b.chau@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-apollo/issues"
+    "url": "https://github.com/nevermin9/apollo/issues"
   },
-  "homepage": "https://apollo.vuejs.org/",
   "publishConfig": {
     "access": "public"
   },
